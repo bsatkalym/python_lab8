@@ -1,1 +1,3 @@
-# python_lab8
+![Screenshot](screen.png)
+![Screenshot](screen1.png)
+
